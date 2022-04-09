@@ -1,0 +1,16 @@
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ShiftCipher.exe
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ShiftCipher.deps.json
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ShiftCipher.runtimeconfig.json
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ShiftCipher.runtimeconfig.dev.json
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ShiftCipher.dll
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ref\ShiftCipher.dll
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\ShiftCipher.pdb
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.csproj.AssemblyReference.cache
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.AssemblyInfoInputs.cache
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.AssemblyInfo.cs
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.csproj.CoreCompileInputs.cache
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.dll
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ref\ShiftCipher.dll
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.pdb
+C:\Users\DINH LOC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ShiftCipher.genruntimeconfig.cache
